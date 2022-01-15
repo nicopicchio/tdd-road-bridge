@@ -30,8 +30,8 @@ so many cars can be on the bridge at the same time. Your program should support 
 * Return the number of cars currently on the bridge
 * Record when a car moves on to the bridge. If a car tries to move on to the bridge when it is at capacity, an error should be returned.
 * Record when a car moves off the bridge.
-* Be able to change the capacity of the bridge (for example, when there is high winds less cars are allowed on.
-* Close the bridge completely (i.e in case of an accident). Cars that are on the bridge when it is closed should be still be able to move off the bridge but no new cars should be allowed on.
+* Be able to change the capacity of the bridge (for example, when there is high winds less cars are allowed on).
+* Close the bridge completely (for example, in the case of an accident). Cars that are on the bridge when it is closed should be still be able to move off the bridge but no new cars should be allowed on.
 * Reopen the bridge when it is closed.
 
 Extension 1
